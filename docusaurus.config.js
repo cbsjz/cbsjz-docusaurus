@@ -81,12 +81,111 @@ const config = {
         },
         items: [
           {
+            to: '/blog',
+            label: '博客',
+            position: 'right'
+          },
+          {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
+            position: 'right',
             label: '文档',
           },
-          {to: '/blog', label: '博客', position: 'left'},
+          {
+            to: "/",
+            label: "视频",
+            position: "right",
+            items: [
+              {
+                label: "爱奇艺",
+                href: "https://www.iqiyi.com/u/2071982791",
+              },
+              {
+                label: "哔哩哔哩",
+                href: "https://space.bilibili.com/39060970",
+              },
+              {
+                label: "腾讯视频",
+                href: "https://v.qq.com/vplus/fb379d4923f073908cd6e6189ae90664",
+              },
+              {
+                label: "优酷",
+                href: "https://i.youku.com/cbqfsjz",
+              },
+              {
+                label: "西瓜视频",
+                href: "https://www.ixigua.com/c/user/59410370157 ",
+              },
+              {
+                label: "AcFun",
+                href: "https://www.acfun.cn/u/12816444.aspx",
+              },
+              {
+                label: "YouTube",
+                href: "https://www.youtube.com/channel/UCdhKtanGQo-Cy-XUT7STHHw/",
+              },
+            ],
+          },
+          {
+            to: "/",
+            label: "直播",
+            position: "right",
+            items: [
+              {
+                label: "哔哩哔哩直播",
+                href: "https://space.bilibili.com/39060970",
+              },
+              {
+                label: "爱奇艺直播",
+                href: "https://gamelive.iqiyi.com/w/13413",
+              },
+              {
+                label: "斗鱼直播",
+                href: "https://www.douyu.com/8656608",
+              },
+              {
+                label: "西瓜直播",
+                href: "https://live.ixigua.com/room/6820631691665607438/",
+              },
+              {
+                label: "YouTube Live",
+                href: "https://www.youtube.com/channel/UCdhKtanGQo-Cy-XUT7STHHw/live",
+              },
+            ],
+          },
+          {
+            to: "/",
+            label: "录制组",
+            position: "right",
+            items: [
+              {
+                label: "哔哩哔哩",
+                href: "https://space.bilibili.com/400613608",
+              },
+              {
+                label: "爱奇艺",
+                href: "https://www.iqiyi.com/u/1704091754",
+              },
+            ],
+          },
+          {
+            label: "新浪微博",
+            position: "right",
+            href: "https://weibo.com/cbsjz",
+          },
+          /**
+          {
+            label: "Q群",
+            position: "right",
+            href: "https://jq.qq.com/?_wv=1027&k=zwdIaC4j",
+            // items: [
+            //   {
+            //     label: "586557098",
+            //     href: "https://jq.qq.com/?_wv=1027&k=zwdIaC4j",
+            //   }
+            // ],
+          },
+          */
           /** 本地化语言选择
           {
             type: 'localeDropdown',
@@ -124,44 +223,40 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: "社交媒体",
             items: [
               {
-                label: '教程',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          
-          {
-            title: '社区',
-            items: [
-              /*
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: "GitHub",
+                href: "https://github.com/cbsjz/cbsjz-docusaurus",
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: "哔哩哔哩",
+                href: "https://space.bilibili.com/39060970",
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: "新浪微博",
+                href: "https://weibo.com/cbsjz",
               },
-              */
+              {
+                label: "QQ群",
+                href: "https://ke.qq.com/course/2839093?tuin=3850fdc6",
+              },
+              // {
+              //   label: "shaoji@cbsjz.net",
+              //   href: "mailto:shaoji@cbsjz.net",
+              // },
             ],
           },
           {
-            title: 'More',
+            title: "友情链接",
             items: [
               {
-                label: '博客',
-                to: '/blog',
+                label: "超时光",
+                to: "https://sgziyu23.com",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/cbsjz/cbsjz-docusaurus',
+                label: "峰华",
+                to: "https://zxuqian.cn/",
               },
             ],
           },
@@ -175,13 +270,13 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '正尝试翻新博客',
+          '正尝试翻修博客',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
       },
     }),
-    
+
 };
 
 module.exports = config;
