@@ -38,3 +38,15 @@ We recommend that you begin by typing:
   `npm start`
 
 Happy building awesome websites!
+
+------------------------------------------------------------
+安装 Node.js，然后创建一个新 Docusaurus 网站：
+
+npx create-docusaurus@latest my-website classic
+
+运行网站：
+
+cd my-website
+npx docusaurus start
+
+打开 http://localhost:3000 并遵循教程。
