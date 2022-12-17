@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'cbsjz',
+  tagline: '爱睡觉的cb烧鸡中zzZ',
   url: 'https://cbsjz.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -80,17 +80,17 @@ const config = {
           src: 'img/cbsjz_x64.jpg',
         },
         items: [
-          {
-            to: '/blog',
-            label: '博客',
-            position: 'right'
-          },
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'right',
-            label: '文档',
-          },
+          // {
+          //   to: '/blog',
+          //   label: '博客',
+          //   position: 'right'
+          // },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'right',
+          //   label: '文档',
+          // },
           {
             to: "/",
             label: "视频",
@@ -270,7 +270,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '正尝试翻修博客',
+          '正在尝试翻修',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
