@@ -124,6 +124,10 @@ const config = {
                 label: "YouTube",
                 href: "https://www.youtube.com/channel/UCdhKtanGQo-Cy-XUT7STHHw/",
               },
+              {
+                label: "抖音",
+                href: "https://www.douyin.com/user/MS4wLjABAAAA-ybaYCaYP90D0zxUOUgsKGXOVgxMjx-ZXHGwPaQiuFQ",
+              },
             ],
           },
           {
@@ -143,10 +147,10 @@ const config = {
                 label: "斗鱼直播",
                 href: "https://www.douyu.com/8656608",
               },
-              {
+              /*{
                 label: "西瓜直播",
                 href: "https://live.ixigua.com/room/6820631691665607438/",
-              },
+              },*/
               {
                 label: "YouTube Live",
                 href: "https://www.youtube.com/channel/UCdhKtanGQo-Cy-XUT7STHHw/live",
