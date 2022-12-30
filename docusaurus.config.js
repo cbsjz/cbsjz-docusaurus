@@ -108,10 +108,10 @@ const config = {
                 label: "腾讯视频",
                 href: "https://v.qq.com/vplus/fb379d4923f073908cd6e6189ae90664",
               },
-              {
+              /*{
                 label: "优酷",
                 href: "https://i.youku.com/cbqfsjz",
-              },
+              },*/
               {
                 label: "西瓜视频",
                 href: "https://www.ixigua.com/c/user/59410370157 ",
