@@ -256,7 +256,7 @@ const config = {
             items: [
               {
                 label: "超时光",
-                to: "https://sgziyu23.com",
+                to: "https://jq.qq.com/?_wv=1027&k=zwTBiDlW",
               },
               {
                 label: "峰华",
