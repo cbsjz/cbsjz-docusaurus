@@ -243,7 +243,7 @@ const config = {
               },
               {
                 label: "QQ群",
-                href: "https://ke.qq.com/course/2839093?tuin=3850fdc6",
+                href: "https://jq.qq.com/?_wv=1027&k=IlDFzvqV",
               },
               // {
               //   label: "shaoji@cbsjz.net",
