@@ -104,10 +104,10 @@ const config = {
                 label: "哔哩哔哩",
                 href: "https://space.bilibili.com/39060970",
               },
-              {
+              /*{
                 label: "腾讯视频",
                 href: "https://v.qq.com/vplus/fb379d4923f073908cd6e6189ae90664",
-              },
+              },*/
               /*{
                 label: "优酷",
                 href: "https://i.youku.com/cbqfsjz",
