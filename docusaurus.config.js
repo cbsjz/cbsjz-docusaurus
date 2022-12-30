@@ -135,10 +135,10 @@ const config = {
                 label: "哔哩哔哩直播",
                 href: "https://space.bilibili.com/39060970",
               },
-              {
+              /*{
                 label: "爱奇艺直播",
                 href: "https://gamelive.iqiyi.com/w/13413",
-              },
+              },*/
               {
                 label: "斗鱼直播",
                 href: "https://www.douyu.com/8656608",
