@@ -137,7 +137,7 @@ const config = {
             items: [
               {
                 label: "哔哩哔哩直播",
-                href: "https://space.bilibili.com/39060970",
+                href: "https://live.bilibili.com/1225925",
               },
               /*{
                 label: "爱奇艺直播",
