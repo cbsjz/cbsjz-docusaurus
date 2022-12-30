@@ -151,10 +151,10 @@ const config = {
                 label: "西瓜直播",
                 href: "https://live.ixigua.com/room/6820631691665607438/",
               },*/
-              {
+              /*{
                 label: "YouTube Live",
                 href: "https://www.youtube.com/channel/UCdhKtanGQo-Cy-XUT7STHHw/live",
-              },
+              },*/
             ],
           },
           {
