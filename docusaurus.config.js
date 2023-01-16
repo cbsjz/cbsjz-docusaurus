@@ -258,10 +258,10 @@ const config = {
                 label: "超时光",
                 to: "https://jq.qq.com/?_wv=1027&k=zwTBiDlW",
               },
-              {
+              /*{
                 label: "峰华",
                 to: "https://zxuqian.cn/",
-              },
+              },*/
             ],
           },
         ],
