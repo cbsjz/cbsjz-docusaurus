@@ -179,13 +179,13 @@ const config = {
           },
           /**
           {
-            label: "Q群",
+            label: "QQ频道",
             position: "right",
-            href: "https://jq.qq.com/?_wv=1027&k=zwdIaC4j",
+            href: "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YLos5Pcj3J&businessType=9&jumpInfo=ChAXMiDtGIdOphKhWYhwFtDQEgN2cDE%3D&from=246610&biz=ka#/pc",
             // items: [
             //   {
-            //     label: "586557098",
-            //     href: "https://jq.qq.com/?_wv=1027&k=zwdIaC4j",
+            //     label: "烧鸡社~~",
+            //     href: "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YLos5Pcj3J&businessType=9&jumpInfo=ChAXMiDtGIdOphKhWYhwFtDQEgN2cDE%3D&from=246610&biz=ka#/pc",
             //   }
             // ],
           },
@@ -242,8 +242,8 @@ const config = {
                 href: "https://weibo.com/cbsjz",
               },
               {
-                label: "QQ群",
-                href: "https://jq.qq.com/?_wv=1027&k=IlDFzvqV",
+                label: "QQ频道-烧鸡社~~",
+                href: "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YLos5Pcj3J&businessType=9&jumpInfo=ChAXMiDtGIdOphKhWYhwFtDQEgN2cDE%3D&from=246610&biz=ka#/pc",
               },
               // {
               //   label: "shaoji@cbsjz.net",
