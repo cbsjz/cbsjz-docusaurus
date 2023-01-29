@@ -179,15 +179,15 @@ const config = {
                {
                  label: "QQ频道-烧鸡社",
                  href: "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YLos5Pcj3J&businessType=9&jumpInfo=ChAXMiDtGIdOphKhWYhwFtDQEgN2cDE%3D&from=246610&biz=ka#/pc",
-               }，
+               },
                {
                  label: "新浪微博",
                  href: "https://weibo.com/cbsjz",
-               }，
+               },
                {
                  label: "烧鸡REC",
                  href: "https://space.bilibili.com/400613608",
-               }，
+               },
              ],
           },
           /** 本地化语言选择
