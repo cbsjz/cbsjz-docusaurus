@@ -215,7 +215,7 @@ const config = {
           },
           */
           {
-            href: 'https://github.com/cbsjz/cbsjz-docusaurus',
+            href: 'https://github.com/shaotori/cbsjz-docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -231,7 +231,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/cbsjz/cbsjz-docusaurus",
+                href: "https://github.com/shaotori/cbsjz-docusaurus",
               },
               {
                 label: "哔哩哔哩",
