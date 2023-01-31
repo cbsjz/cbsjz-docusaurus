@@ -74,7 +74,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'cbsjz',
+        title: 'shaotori',
         logo: {
           alt: 'cbsjz Logo',
           src: 'img/cbsjz_x64.jpg',
@@ -265,7 +265,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} cbsjz, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} shaotori, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
