@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'shaotori',
   tagline: 'cbsjz',
-  url: 'https://cbsjz.org',
+  url: 'https://shaotor.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
