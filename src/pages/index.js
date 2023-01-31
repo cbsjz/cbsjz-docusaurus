@@ -38,7 +38,7 @@ function HomepageHeader() {
       {/* <div className="container"> */}
       <div className={clsx('container', styles.indexContainer)}>
         <div>
-          <h1 className={clsx("hero__title", styles.indexTitle)}>cb烧鸡中 | {siteConfig.title}</h1>
+          <h1 className={clsx("hero__title", styles.indexTitle)}>cb烧鸡中</h1>
           <p className={clsx("hero__subtitle", styles.indexInfo)}>{siteConfig.tagline}</p>
           <div className={clsx(styles.indexIco)}>
             <a href="https://space.bilibili.com/39060970">
