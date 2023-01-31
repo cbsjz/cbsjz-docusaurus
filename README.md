@@ -1,6 +1,6 @@
 # Website cbsjz-docusaurus
 
-cb烧鸡中 https://cbsjz.org
+cb烧鸡中 https://cbsjz.org  
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
