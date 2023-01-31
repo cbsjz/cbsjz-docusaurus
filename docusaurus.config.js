@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'shaotori',
   tagline: 'cbsjz',
-  url: 'https://cbsjz.org',
+  url: 'https://shaotor.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -215,7 +215,7 @@ const config = {
           },
           */
           {
-            href: 'https://github.com/cbsjz/cbsjz-docusaurus',
+            href: 'https://github.com/shaotori/cbsjz-docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -231,7 +231,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/cbsjz/cbsjz-docusaurus",
+                href: "https://github.com/shaotori/cbsjz-docusaurus",
               },
               {
                 label: "哔哩哔哩",
