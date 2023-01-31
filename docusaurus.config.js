@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'shaotori',
-  tagline: 'cbsjz',
+  tagline: 'shaotori',
   url: 'https://shaotor.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
