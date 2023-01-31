@@ -1,7 +1,4 @@
-# cbsjz-cbsjz-docusaurus
-Built with Docusaurus.
-
-# Website
+# Website cbsjz-docusaurus
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
