@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: "YouTube",
-                href: "https://www.youtube.com/channel/UCdhKtanGQo-Cy-XUT7STHHw/",
+                href: "https://www.youtube.com/@shaotori",
               },
               {
                 label: "抖音",
