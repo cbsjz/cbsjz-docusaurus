@@ -1,21 +1,18 @@
-# Website cbsjz-docusaurus
+# 个人博客
 
-cb烧鸡中 https://cbsjz.org  
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+使用 [Docusaurus 2](https://v2.docusaurus.io/)静态网站生成器构建。
 
-### Installation
+### 安装
 
 ```
 $ yarn
 ```
 
-### Local Development
+### 本地开发
 
 ```
 $ yarn start
 ```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ### Build
 
@@ -23,20 +20,14 @@ This command starts a local development server and opens up a browser window. Mo
 $ yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
+### 部署
 
 ```
-$ USE_SSH=true yarn deploy
+$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
-Not using SSH:
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+### 源码
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+by 峰华 (张旭乾) Built with Docusaurus.
+https://github.com/zxuqian/zxuqian.cn
