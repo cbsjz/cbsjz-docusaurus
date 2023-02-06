@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+#background-small {
+    filter: blur(5px);
+    transform: scale(1.05);
+	background-image: url("https://images4.alphacoders.com/771/771283.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: -1;
+}
+
+main .content{
+	display: flex;
+    border-radius: 50px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+    overflow: hidden;
+	width: 854px;
+	height: 480px;
+	background: rgba(255, 255, 255, .7);
+
+}
+
+/* Lefgt Box */
+.left {
+	text-align: right;
+	width: 100%;
+    padding: 10%;
+}
+
+#text p {
+    margin-top: 10px;
+}
+
+/* Right Box */
+.right {
+	background: rgba(102,204,255,1.00);
+	text-align: center;
+	width: 100%;
+}
+
+.right .avatar img {
+    border-radius: 10%;
+    border: 5px #FFF solid;
+	width: 50%;
+	height: 50%;
+	margin-top: 35%;
+}
+.ID{
+	margin-top: 10%;
+	font-size: 28px;
+	color: #FFF;
+}
+.ID2{
+	margin-top: 5px;
+	font-size: 14px;
+	color: #FFF;
+}
+
+a{
+    text-decoration:none;
+    color: gray;
+}
+
+a:hover {
+    color: gray;
+}
