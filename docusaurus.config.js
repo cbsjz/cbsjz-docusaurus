@@ -8,6 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'shaotori',
   tagline: 'shaotori',
+  id: 'cb烧鸡中',
   url: 'https://shaotor.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
