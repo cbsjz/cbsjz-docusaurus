@@ -34,6 +34,9 @@ function HomepageHeader() {
     //     </div>
     //   </div> */}
     // </header>
+    <head>
+      <meta name="baidu-site-verification" content="codeva-SV14Qnynf0" />
+    </head>
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       {/* <div className="container"> */}
       <div className={clsx('container', styles.indexContainer)}>
