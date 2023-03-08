@@ -14,6 +14,16 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/cbsjz_x64.jpg',
 
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'baidu-site-verification',
+        content: 'codeva-SV14Qnynf0',
+      },
+    },
+  ],
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cbsjz', // Usually your GitHub org/user name.
