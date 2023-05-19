@@ -52,6 +52,8 @@
 
   .headerBoxContainer {
     flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
   }
 
   .headerBoxContainer div {
