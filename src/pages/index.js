@@ -22,7 +22,11 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     // <header className={clsx('hero hero--primary', styles.heroBanner)}>
+<<<<<<< HEAD
     //   {/* <div className="container">
+=======
+    //   <div className="container">
+>>>>>>> kkt-next
     //     <h1 className="hero__title">{siteConfig.title}</h1>
     //     <p className="hero__subtitle">{siteConfig.tagline}</p>
     //     <div className={styles.buttons}>
@@ -32,6 +36,7 @@ function HomepageHeader() {
     //         Docusaurus Tutorial - 5min ⏱️
     //       </Link>
     //     </div>
+<<<<<<< HEAD
     //   </div> */}
     // </header>
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -41,6 +46,16 @@ function HomepageHeader() {
           <h1 className={clsx("hero__title", styles.indexTitle)}>{siteConfig.tagline} | {siteConfig.title}</h1>
           <p className={clsx("hero__subtitle", styles.indexInfo)}>{siteConfig.title}烧鸡中</p>
           <div className={clsx(styles.indexIco)}>
+=======
+    //   </div>
+    // </header>
+    <header className={clsx('hero', styles.headerBox)}>
+      <div className={clsx(styles.headerBoxContainer)}>
+        <div className="container">
+          <h1 className="hero__title">{siteConfig.tagline} {siteConfig.title}</h1>
+          <p className="hero__subtitle">{siteConfig.title}烧鸡中</p>
+          <div className={clsx(styles.headerBoxIco)}>
+>>>>>>> kkt-next
             <a href="https://space.bilibili.com/39060970">
               <FontAwesomeIcon icon={faBilibili} size="lg" />
             </a>
@@ -56,10 +71,17 @@ function HomepageHeader() {
           </div>
         </div>
         <div>
+<<<<<<< HEAD
           <INDEXImg className={clsx(styles.indexImg)}/>
         </div>
       </div>
     </header >
+=======
+          <INDEXImg className={clsx(styles.indexImg)} />
+        </div>
+      </div>
+    </header>
+>>>>>>> kkt-next
   );
 }
 
@@ -68,6 +90,7 @@ export default function Home() {
   return (
     <Layout
       // title={`Hello from ${siteConfig.title}`}
+<<<<<<< HEAD
       title={`cb烧鸡中`}
       description="cbsjz-docusaurus <head />">
       <HomepageHeader className={clsx(styles.indexHeader)} />
@@ -84,5 +107,13 @@ export default function Home() {
         }}>主页正文区</div> */}
       </main>
     </Layout >
+=======
+      description="Description will go into a meta tag in <head />">
+      <HomepageHeader />
+      {/* <main>
+        <HomepageFeatures />
+      </main> */}
+    </Layout>
+>>>>>>> kkt-next
   );
 }

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1// @ts-check
+=======
+// @ts-check
+>>>>>>> kkt-next
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -8,6 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'shaotori',
   tagline: 'cb烧鸡中',
+<<<<<<< HEAD
   url: 'https://shaotor.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -28,11 +33,29 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cbsjz', // Usually your GitHub org/user name.
   projectName: 'cbsjz-docusaurus', // Usually your repo name.
+=======
+  favicon: 'img/shaotori-cbsjz.ico',
+
+  // Set the production url of your site here
+  url: 'https://shaotori.com',
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'shaotori', // Usually your GitHub org/user name.
+  projectName: 'shaotori-docusaurus', // Usually your repo name.
+
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+>>>>>>> kkt-next
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
+<<<<<<< HEAD
     defaultLocale: 'zh-CN',
     locales: ['zh-CN', 'en'],
     path: 'i18n',
@@ -52,6 +75,27 @@ const config = {
         path: 'en',
       },
     },
+=======
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
+    // path: 'i18n',
+    // localeConfigs: {
+    //   en: {
+    //     label: 'English',
+    //     direction: 'ltr',
+    //     htmlLang: 'en-US',
+    //     calendar: 'gregory',
+    //     path: 'en',
+    //   },
+    //   fa: {
+    //     label: 'فارسی',
+    //     direction: 'rtl',
+    //     htmlLang: 'fa-IR',
+    //     calendar: 'persian',
+    //     path: 'fa',
+    //   },
+    // },
+>>>>>>> kkt-next
   },
 
   presets: [
@@ -63,15 +107,25 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+<<<<<<< HEAD
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+=======
+          editUrl:'/',
+            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+>>>>>>> kkt-next
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+<<<<<<< HEAD
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+=======
+          editUrl:'/',
+            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+>>>>>>> kkt-next
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -80,6 +134,7 @@ const config = {
     ],
   ],
 
+<<<<<<< HEAD
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -105,6 +160,34 @@ const config = {
             to: "/",
             label: "视频",
             position: "right",
+=======
+  //navbar footer prism
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      // Replace with your project's social card
+      image: 'img/docusaurus-social-card.jpg',
+      navbar: {
+        title: 'shaotori',
+        logo: {
+          alt: 'shaotori Logo',
+          src: 'img/shaotori-cbsjz.ico',
+        },
+        items: [
+          //left
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
+          // {to: '/blog', label: 'Blog', position: 'left'},
+
+          //right
+          {
+            label: '视频',
+            position: 'right',
+>>>>>>> kkt-next
             items: [
               {
                 label: "爱奇艺",
@@ -141,7 +224,10 @@ const config = {
             ],
           },
           {
+<<<<<<< HEAD
             to: "/",
+=======
+>>>>>>> kkt-next
             label: "直播",
             position: "right",
             items: [
@@ -200,6 +286,7 @@ const config = {
                },
              ],
           },
+<<<<<<< HEAD
           /** 本地化语言选择
           {
             type: 'localeDropdown',
@@ -226,6 +313,14 @@ const config = {
           */
           {
             href: 'https://github.com/shaotori/cbsjz-docusaurus',
+=======
+		      {
+            type: 'localeDropdown',
+            position: 'right',
+		      },
+          {
+            href: 'https://github.com/shaotori/shaotori-docusaurus',
+>>>>>>> kkt-next
             label: 'GitHub',
             position: 'right',
           },
@@ -235,13 +330,61 @@ const config = {
       },
       footer: {
         style: 'dark',
+<<<<<<< HEAD
+=======
+        // links: [
+        //   {
+        //     title: 'Docs',
+        //     items: [
+        //       {
+        //         label: 'Tutorial',
+        //         to: '/docs/intro',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'Community',
+        //     items: [
+        //       {
+        //         label: 'Stack Overflow',
+        //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        //       },
+        //       {
+        //         label: 'Discord',
+        //         href: 'https://discordapp.com/invite/docusaurus',
+        //       },
+        //       {
+        //         label: 'Twitter',
+        //         href: 'https://twitter.com/docusaurus',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'More',
+        //     items: [
+        //       {
+        //         label: 'Blog',
+        //         to: '/blog',
+        //       },
+        //       {
+        //         label: 'GitHub',
+        //         href: 'https://github.com/facebook/docusaurus',
+        //       },
+        //     ],
+        //   },
+        // ],
+>>>>>>> kkt-next
         links: [
           {
             title: "社交媒体",
             items: [
               {
                 label: "GitHub",
+<<<<<<< HEAD
                 href: "https://github.com/shaotori/cbsjz-docusaurus",
+=======
+                href: "https://github.com/shaotori/",
+>>>>>>> kkt-next
               },
               {
                 label: "哔哩哔哩",
@@ -264,6 +407,7 @@ const config = {
           {
             title: "友情链接",
             items: [
+<<<<<<< HEAD
               {
                 label: "超时光",
                 to: "https://jq.qq.com/?_wv=1027&k=zwTBiDlW",
@@ -276,11 +420,22 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} shaotori, Inc. Built with Docusaurus.`,
+=======
+              // {
+              //   label: "超时光",
+              //   to: "https://jq.qq.com/?_wv=1027&k=zwTBiDlW",
+              // },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} shaotori.com, Inc. Built with Docusaurus.`,
+>>>>>>> kkt-next
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+<<<<<<< HEAD
       // announcementBar: {
       //   id: 'support_us',
       //   content:
@@ -291,6 +446,9 @@ const config = {
       // },
     }),
 
+=======
+    }),
+>>>>>>> kkt-next
 };
 
 module.exports = config;

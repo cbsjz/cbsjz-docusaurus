@@ -2,6 +2,7 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+<<<<<<< HEAD
  
 
 .heroBanner {
@@ -35,18 +36,63 @@
 .indexIco a{
   color: var(--ifm-color-info);
   margin-right: 3rem;
+=======
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.headerBox {
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  max-width: 100%;
+  height: calc(100vh - 60px);
+  padding: 15vw;
+}
+
+.headerBoxContainer {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-evenly; */
+}
+
+.headerBox h1 {
+  color: var(--ifm-color-primary);
+}
+
+.headerBox p {
+  font-size: 1.125rem;
+  color: var(--ifm-color-primary-label);
+}
+
+.headerBoxIco {
+  max-width: 40%;
+  display: flex;
+  justify-content: space-between;
+>>>>>>> kkt-next
 }
 
 .indexImg {
   width: 100%;
+<<<<<<< HEAD
 }
 
 
+=======
+  height: 100%;
+}
+
+>>>>>>> kkt-next
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
   }
 
+<<<<<<< HEAD
   .heroBanner {
     /* padding: 4rem 0; */
     text-align: center;
@@ -61,6 +107,18 @@
   
   .indexImg {
     height: 100%;
+=======
+  .headerBoxContainer {
+    flex-direction: column;
+  }
+
+  .headerBoxContainer div {
+    margin: 25px 0;
+  }
+
+  .headerBoxIco {
+    max-width: 80%;
+>>>>>>> kkt-next
   }
 }
 
@@ -69,5 +127,8 @@
   align-items: center;
   justify-content: center;
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> kkt-next

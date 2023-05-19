@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 endi:
   name: Endilie Yacop Sucipto
   title: Maintainer of Docusaurus
@@ -15,3 +16,10 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+=======
+cbsjz:
+  name: shaotori
+  title: cb烧鸡中
+  url: https://github.com/shaotori
+  image_url: https://avatars.githubusercontent.com/u/30325355?v=4
+>>>>>>> kkt-next
