@@ -183,7 +183,7 @@ const config = {
              items: [
                {
                  label: "QQ频道-烧鸡社",
-                 href: "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YLos5Pcj3J&businessType=9&jumpInfo=ChAXMiDtGIdOphKhWYhwFtDQEgN2cDE%3D&from=246610&biz=ka#/pc",
+                 href: "https://pd.qq.com/s/9ffm36qi",
                },
                {
                  label: "新浪微博",
@@ -269,7 +269,7 @@ const config = {
               },
               {
                 label: "QQ频道-烧鸡社",
-                href: "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YLos5Pcj3J&businessType=9&jumpInfo=ChAXMiDtGIdOphKhWYhwFtDQEgN2cDE%3D&from=246610&biz=ka#/pc",
+                href: "https://pd.qq.com/s/9ffm36qi",
               },
               // {
               //   label: "shaoji@cbsjz.net",

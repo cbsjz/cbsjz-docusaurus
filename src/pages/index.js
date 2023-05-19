@@ -46,7 +46,7 @@ function HomepageHeader() {
             <a href="https://weibo.com/cbsjz">
               <FontAwesomeIcon icon={faWeibo} size="lg" />
             </a>
-            <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YLos5Pcj3J&businessType=9&jumpInfo=ChAXMiDtGIdOphKhWYhwFtDQEgN2cDE%3D&from=246610&biz=ka#/pc">
+            <a href="https://pd.qq.com/s/9ffm36qi">
               <FontAwesomeIcon icon={faQq} size="lg" />
             </a>
             <a href="https://github.com/shaotori">
