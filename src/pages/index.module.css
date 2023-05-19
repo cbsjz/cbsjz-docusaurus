@@ -72,5 +72,10 @@
 .buttons {
   display: flex;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
+  margin: 15px 0 ;
+}
+
+.buttonsLink {
+  color: var(--ifm-color-primary-label);
 }
