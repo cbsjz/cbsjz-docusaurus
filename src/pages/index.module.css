@@ -10,9 +10,56 @@
   overflow: hidden;
 }
 
+.headerBox {
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  max-width: 100%;
+  height: calc(100vh - 60px);
+  padding: 15vw;
+}
+
+.headerBoxContainer {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-evenly; */
+}
+
+.headerBox h1 {
+  color: var(--ifm-color-primary);
+}
+
+.headerBox p {
+  font-size: 1.125rem;
+  color: var(--ifm-color-primary-label);
+}
+
+.headerBoxIco {
+  max-width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.indexImg {
+  width: 100%;
+  height: 100%;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+  }
+
+  .headerBoxContainer {
+    flex-direction: column;
+  }
+
+  .headerBoxContainer div {
+    margin: 25px 0;
+  }
+
+  .headerBoxIco {
+    max-width: 80%;
   }
 }
 
