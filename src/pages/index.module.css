@@ -61,6 +61,10 @@
   .headerBoxIco {
     max-width: 80%;
   }
+
+  .indexImg {
+    height: 50vh;
+  }
 }
 
 .buttons {
