@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## 地方广电
 
-><iframe src="https://region-zhejiang-resource.xuexi.cn/video/1006/p/f688b2ce52a5f5ebf88c46737c8dbb27-e21874a857654dd08ee8187f87224954-2.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="256px" height="144px"> </iframe>
+><iframe src="https://region-zhejiang-resource.xuexi.cn/video/1006/p/f688b2ce52a5f5ebf88c46737c8dbb27-e21874a857654dd08ee8187f87224954-2.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" muted width="256px" height="144px" > </iframe>
 >
 >[最想去的地方丨唐先十景](https://article.xuexi.cn/articles/index.html?art_id=2540781970828240651&cdn=https%3A%2F%2Fregion-zhejiang-resource) <br/>
 >学习强国
