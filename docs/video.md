@@ -14,7 +14,7 @@ sidebar_position: 1
 >[民生|《金东20年》文丛首发，主播带你走读金东，感受民生变化…](/) <br/>
 >微信视频号
 
-## 项短视频
+## 短视频
 
 >
 ><iframe src="//player.bilibili.com/player.html?aid=868941241&bvid=BV1BV4y167Mp&cid=1136752961&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="256px" height="144px"> </iframe>
