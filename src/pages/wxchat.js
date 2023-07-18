@@ -10,7 +10,7 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero', styles.headerBox)}>
+    <header>
       <div>
         <img src="./img/wxchat.jpg" alt="wxchat"/>
       </div>
