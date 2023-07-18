@@ -50,6 +50,11 @@
     padding: 2rem;
   }
 
+  .headerBox {
+    height: auto;
+    padding: 0;
+  }
+
   .headerBoxContainer {
     flex-direction: column;
     justify-content: center;
