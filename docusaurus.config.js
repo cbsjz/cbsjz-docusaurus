@@ -282,7 +282,7 @@ const config = {
             items: [
               {
                 label: "eMail",
-                href: "shaotori@qq.com",
+                href: "mailto:shaotori@qq.com",
               },
               {
                 label: "企业微信",
