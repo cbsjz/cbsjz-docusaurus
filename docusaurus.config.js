@@ -278,12 +278,16 @@ const config = {
             ],
           },
           {
-            title: "友情链接",
+            title: "联系我",
             items: [
-              // {
-              //   label: "超时光",
-              //   to: "https://jq.qq.com/?_wv=1027&k=zwTBiDlW",
-              // },
+              {
+                label: "eMail",
+                href: "shaotori@qq.com",
+              },
+              {
+                label: "企业微信",
+                href: "https://work.weixin.qq.com/u/vc0cb7a53158d8df64",
+              },
             ],
           },
         ],
