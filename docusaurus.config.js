@@ -283,10 +283,12 @@ const config = {
               {
                 label: "eMail",
                 href: "mailto:shaotori@qq.com",
+                to: "/email",
               },
               {
                 label: "企业微信",
                 href: "https://work.weixin.qq.com/u/vc0cb7a53158d8df64",
+                to: "/wxchat",
               },
             ],
           },
