@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'shaotori',
-  tagline: 'cb烧鸡中',
+  tagline: '烧鸡中',
   favicon: 'img/shaotori-cbsjz.ico',
 
   // Set the production url of your site here
