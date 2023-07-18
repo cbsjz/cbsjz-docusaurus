@@ -277,21 +277,11 @@ const config = {
               // },
             ],
           },
-          {
-            title: "联系我",
-            items: [
-              {
-                label: "eMail",
-                href: "mailto:shaotori@qq.com",
-                to: "email",
-              },
-              {
-                label: "企业微信",
-                href: "https://work.weixin.qq.com/u/vc0cb7a53158d8df64",
-                to: "wxchat",
-              },
-            ],
-          },
+          // {
+          //   title: "友情链接",
+          //   items: [
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} shaotori.com, Inc. Built with Docusaurus.`,
       },
