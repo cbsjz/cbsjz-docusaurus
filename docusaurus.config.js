@@ -286,6 +286,7 @@ const config = {
               },
               {
                 label: "email: shaotori@qq.com",
+                href: "mailto: shaotori@qq.com"
               },
             ],
           },
