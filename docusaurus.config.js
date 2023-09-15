@@ -277,11 +277,15 @@ const config = {
               // },
             ],
           },
-          // {
-          //   title: "友情链接",
-          //   items: [
-          //   ],
-          // },
+          {
+            title: "联系方式",
+            items: [
+              {
+                label: "企业微信",
+                to: "img/wechat.jpg",
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} shaotori.com, Inc. Built with Docusaurus.`,
       },
