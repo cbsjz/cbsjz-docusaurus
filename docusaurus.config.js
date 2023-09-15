@@ -282,7 +282,7 @@ const config = {
             items: [
               {
                 label: "企业微信",
-                to: "img/wechat.jpg",
+                href: "https://shaotori.com/img/wechat.jpg",
               },
             ],
           },
