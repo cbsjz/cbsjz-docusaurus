@@ -284,6 +284,9 @@ const config = {
                 label: "企业微信",
                 href: "https://shaotori.com/img/wechat.jpg",
               },
+              {
+                label: "email: shaotori@qq.com",
+              },
             ],
           },
         ],
