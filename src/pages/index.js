@@ -43,9 +43,9 @@ function HomepageHeader() {
             <a href="https://space.bilibili.com/39060970">
               <FontAwesomeIcon icon={faBilibili} size="lg" />
             </a>
-            <a href="https://weibo.com/cbsjz">
+            {/* <a href="https://weibo.com/cbsjz">
               <FontAwesomeIcon icon={faWeibo} size="lg" />
-            </a>
+            </a> */}
             <a href="https://pd.qq.com/s/9ffm36qi">
               <FontAwesomeIcon icon={faQq} size="lg" />
             </a>
