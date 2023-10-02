@@ -79,3 +79,12 @@ sidebar_position: 1
 ><iframe src="//player.bilibili.com/player.html?aid=498659298&bvid=BV1BK411n7mx&cid=209114840&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="256px" height="144px"> </iframe>
 >
 >[【翻唱】Hello／How are you ／ ナノウ【Kotone(天神子兔音)cover】](https://www.bilibili.com/video/BV1BK411n7mx/)
+
+
+---
+
+## 街拍
+
+><iframe src="https://2550505.com/postDetails/133411" frameborder="0" scrolling="no" width="1080px" height="1920px"></iframe>
+>
+>[厦门街拍](https://2550505.com/postDetails/133411)
