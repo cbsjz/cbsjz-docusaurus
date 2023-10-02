@@ -85,6 +85,6 @@ sidebar_position: 1
 
 ## 街拍
 
-><iframe src="https://2550505.com/postDetails/133411" frameborder="0" scrolling="no" width="1080px" height="1920px"></iframe>
+><iframe src="https://2550505.com/postDetails/133411" frameborder="0" scrolling="no" width="375px" height="667px"></iframe>
 >
 >[厦门街拍](https://2550505.com/postDetails/133411)
