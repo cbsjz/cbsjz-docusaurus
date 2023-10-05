@@ -38,7 +38,7 @@ function HomepageHeader() {
       <div className={clsx(styles.headerBoxContainer)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.tagline} {siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.title}烧鸡中</p>
+          <p className="hero__subtitle">HoshinoYuzu</p>
           <div className={clsx(styles.headerBoxIco)}>
             <a href="https://space.bilibili.com/39060970">
               <FontAwesomeIcon icon={faBilibili} size="lg" />
