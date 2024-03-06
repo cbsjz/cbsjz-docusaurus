@@ -134,6 +134,10 @@ const config = {
                 label: "抖音",
                 href: "https://www.douyin.com/user/MS4wLjABAAAA-ybaYCaYP90D0zxUOUgsKGXOVgxMjx-ZXHGwPaQiuFQ",
               },
+	      {
+                label: "小红书",
+                href: "https://www.xiaohongshu.com/user/profile/5fad2e3f000000000100152d",
+              },
             ],
           },
           {
