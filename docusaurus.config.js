@@ -110,7 +110,7 @@ const config = {
                 label: "YouTube",
                 href: "https://www.youtube.com/@shaotori",
               },
-              {
+              /*{
                 label: "抖音",
                 href: "https://www.douyin.com/user/MS4wLjABAAAA-ybaYCaYP90D0zxUOUgsKGXOVgxMjx-ZXHGwPaQiuFQ",
               },
@@ -137,7 +137,7 @@ const config = {
               {
                 label: "AcFun",
                 href: "https://www.acfun.cn/u/12816444.aspx",
-              },
+              },*/
             ],
           },
           {
