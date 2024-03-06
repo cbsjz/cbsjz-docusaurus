@@ -101,6 +101,44 @@ const config = {
           {
             label: '视频',
             position: 'right',
+            items: [
+              {
+                label: "爱奇艺",
+                href: "https://www.iqiyi.com/u/2071982791",
+              },
+              {
+                label: "哔哩哔哩",
+                href: "https://space.bilibili.com/39060970",
+              },
+              /*{
+                label: "腾讯视频",
+                href: "https://v.qq.com/vplus/fb379d4923f073908cd6e6189ae90664",
+              },*/
+              /*{
+                label: "优酷",
+                href: "https://i.youku.com/cbqfsjz",
+              },*/
+              {
+                label: "西瓜视频",
+                href: "https://www.ixigua.com/c/user/59410370157 ",
+              },
+              {
+                label: "AcFun",
+                href: "https://www.acfun.cn/u/12816444.aspx",
+              },
+              {
+                label: "YouTube",
+                href: "https://www.youtube.com/@shaotori",
+              },
+              {
+                label: "抖音",
+                href: "https://www.douyin.com/user/MS4wLjABAAAA-ybaYCaYP90D0zxUOUgsKGXOVgxMjx-ZXHGwPaQiuFQ",
+              },
+	      {
+                label: "小红书",
+                href: "https://www.xiaohongshu.com/user/profile/5fad2e3f000000000100152d",
+              },
+            ],
           },
           {
             label: "直播",
@@ -115,7 +153,7 @@ const config = {
                 href: "https://gamelive.iqiyi.com/w/13413",
               },*/
               {
-                label: "斗鱼直播"，
+                label: "斗鱼直播",
                 href: "https://www.douyu.com/8656608",
               },
               /*{
