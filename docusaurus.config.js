@@ -111,14 +111,6 @@ const config = {
                 href: "https://space.bilibili.com/39060970",
               },
               {
-                label: "腾讯视频",
-                href: "https://v.qq.com/s/videoplus/740343263",
-              },
-              {
-                label: "优酷",
-                href: "https://www.youku.com/profile/index?uid=UMzk2NTE5MTQ4MA==",
-              },
-              {
                 label: "西瓜视频",
                 href: "https://www.ixigua.com/c/user/59410370157 ",
               },
