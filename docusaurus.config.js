@@ -103,28 +103,8 @@ const config = {
             position: 'right',
             items: [
               {
-                label: "爱奇艺",
-                href: "https://www.iqiyi.com/u/2071982791",
-              },
-              {
                 label: "哔哩哔哩",
                 href: "https://space.bilibili.com/39060970",
-              },
-              /*{
-                label: "腾讯视频",
-                href: "https://v.qq.com/vplus/fb379d4923f073908cd6e6189ae90664",
-              },*/
-              /*{
-                label: "优酷",
-                href: "https://i.youku.com/cbqfsjz",
-              },*/
-              {
-                label: "西瓜视频",
-                href: "https://www.ixigua.com/c/user/59410370157 ",
-              },
-              {
-                label: "AcFun",
-                href: "https://www.acfun.cn/u/12816444.aspx",
               },
               {
                 label: "YouTube",
@@ -137,6 +117,26 @@ const config = {
 	      {
                 label: "小红书",
                 href: "https://www.xiaohongshu.com/user/profile/5fad2e3f000000000100152d",
+              },
+	      {
+                label: "爱奇艺",
+                href: "https://www.iqiyi.com/u/2071982791",
+              },
+	      {
+                label: "腾讯视频",
+                href: "https://v.qq.com/s/videoplus/740343263",
+              },
+              {
+                label: "优酷",
+                href: "https://www.youku.com/profile/index?uid=UMzk2NTE5MTQ4MA==",
+	      }，
+              {
+                label: "西瓜视频",
+                href: "https://www.ixigua.com/c/user/59410370157 ",
+              },
+              {
+                label: "AcFun",
+                href: "https://www.acfun.cn/u/12816444.aspx",
               },
             ],
           },
@@ -153,7 +153,7 @@ const config = {
                 href: "https://gamelive.iqiyi.com/w/13413",
               },*/
               {
-                label: "斗鱼直播",
+                label: "斗鱼直播"，
                 href: "https://www.douyu.com/8656608",
               },
               /*{
