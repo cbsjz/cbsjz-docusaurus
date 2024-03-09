@@ -103,7 +103,7 @@ const config = {
             position: 'right',
             items: [
               {
-                label: "哔哩哔哩",
+                label: "Bilibili",
                 href: "https://space.bilibili.com/39060970",
               },
               {
@@ -111,7 +111,7 @@ const config = {
                 href: "https://www.youtube.com/@shaotori",
               },
 	      {
-                label: "爱奇艺",
+                label: "Iqiyi",
                 href: "https://www.iqiyi.com/u/2071982791",
               },
               /*{
@@ -145,7 +145,7 @@ const config = {
             position: "right",
             items: [
               {
-                label: "哔哩哔哩直播",
+                label: "BiliLive",
                 href: "https://live.bilibili.com/1225925",
               },
               /*{
