@@ -1,6 +1,6 @@
 # Website
 
-cb烧鸡中 <https://shaotori.com> This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+cb烧鸡中 <https://soatori.com> This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 

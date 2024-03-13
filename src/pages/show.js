@@ -49,7 +49,7 @@ function HomepageHeader() {
             <a href="https://pd.qq.com/s/9ffm36qi">
               <FontAwesomeIcon icon={faQq} size="lg" />
             </a>
-            <a href="https://github.com/shaotori">
+            <a href="https://github.com/soatori">
               <FontAwesomeIcon icon={faGithub} size="lg" />
             </a>
           </div>

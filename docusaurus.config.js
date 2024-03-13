@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'shaotori',
+  title: 'soatori',
   tagline: '烧鸡中',
-  favicon: 'img/shaotori-cbsjz.ico',
+  favicon: 'img/soatori-cbsjz.ico',
 
   // Set the production url of your site here
-  url: 'https://shaotori.com',
+  url: 'https://soatori.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'shaotori', // Usually your GitHub org/user name.
-  projectName: 'shaotori-docusaurus', // Usually your repo name.
+  organizationName: 'soatori', // Usually your GitHub org/user name.
+  projectName: 'soatori-docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -82,10 +82,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'shaotori',
+        title: 'soatori',
         logo: {
-          alt: 'shaotori Logo',
-          src: 'img/shaotori-cbsjz.ico',
+          alt: 'soatori Logo',
+          src: 'img/soatori-cbsjz.ico',
         },
         items: [
           //left
@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: "YouTube",
-                href: "https://www.youtube.com/@shaotori",
+                href: "https://www.youtube.com/@soatori",
               },
 	      {
                 label: "Iqiyi",
@@ -204,7 +204,7 @@ const config = {
             position: 'right',
 		      },
           {
-            href: 'https://github.com/shaotori/shaotori-docusaurus',
+            href: 'https://github.com/soatori/soatori-docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -261,7 +261,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/shaotori/",
+                href: "https://github.com/soatori/",
               },
               {
                 label: "哔哩哔哩",
@@ -286,16 +286,16 @@ const config = {
             items: [
               {
                 label: "企业微信",
-                href: "https://shaotori.com/img/wechat.jpg",
+                href: "https://soatori.com/img/wechat.jpg",
               },
               {
-                label: "email: shaotori@qq.com",
-                href: "mailto: shaotori@qq.com"
+                label: "email: soatori@qq.com",
+                href: "mailto: soatori@qq.com"
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} shaotori.com, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} soatori.com, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
