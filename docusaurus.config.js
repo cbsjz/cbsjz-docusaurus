@@ -288,10 +288,10 @@ const config = {
                 label: "企业微信",
                 href: "https://soatori.com/img/wechat.jpg",
               },
-              {
+              /*{
                 label: "email: soatori@qq.com",
                 href: "mailto: soatori@qq.com"
-              },
+              },*/
             ],
           },
         ],
